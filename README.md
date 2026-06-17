@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa Al-Jobri
 
-<!--
-**mostafa-al-jobri/mostafa-al-jobri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-End Developer
 
-Here are some ideas to get you started:
+### 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- TailwindCSS
+- Vue.js
+- Git & GitHub
+
+---
+
+## 📚 About Me
+
+I'm a Front-End Developer passionate about building modern and responsive websites.
+
+Currently learning Vue 3 and advanced web development techniques.
+
+---
+
+## 💻 My Projects
+
+### Money Transfer Website
+A modern money transfer landing page built with TailwindCSS.
+
+### Personal Portfolio
+Responsive portfolio website.
+
+### E-Commerce UI
+Modern shopping interface design.
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/mostafa-al-jobri
